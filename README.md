@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sri Harsha Kunda</h1>
 <h3 align="center">A passionate Robotics Researcher and Developer from SF Bay Area</h3>
 
-- 👨‍💻 All of my projects are available at [sriharshakunda/srikunda.github.io](sriharshakunda/srikunda.github.io)
+- 👨‍💻 All of my projects are available at [sriharshakunda/srikunda.github.io](https://github.com/sriharshakunda/srikunda.github.io)
 
 - 📝 I regularly write articles on [Robotics](Robotics)
 
